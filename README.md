@@ -30,19 +30,19 @@ effects. This approach can lead to cleaner code and less debugging later in the 
 has been my experience in speaking with working developers that there are many companies that
 "talk the talk" of TDD, but few actually "walk the walk."
 
-### If name equals main
+##### If name equals main
 
 The standard line of code:
 
 ```python
-if \__name__ = "__main__"
+if __name__ = "__main__"
 ```
 
 is an easy way to determine whether a Python module is running from the top level or if it
-is being called by another module. Since \__name__ is always defined, this quick check allows
+is being called by another module. Since dunder-name is always defined, this quick check allows
 you to control what code is being run, depending on its context.
 
-### Recursion
+##### Recursion
 
 Recursion is the process of creating a function that calls itself. This can be a useful shorthand
 tool for lots of repetitive functions, for example, calculating a fibonacci sequence. There is a
