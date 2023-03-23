@@ -2,7 +2,7 @@
 
 **Date Due:** March 18, 11:59pm PDT
 
-Data structures and algorithms are extremely important for a software developer, as a thourough understanding
+Data structures and algorithms are extremely important for a software developer, as a thorough understanding
 of which of these is appropriate for a particular problem will lead to far more efficient coding. If the correct
 algorithm is selected, valuable resources are less likely to be wasted.
 
@@ -38,7 +38,7 @@ only run when the base case has **not** been met.
 Recursion can be a useful technique in terms of making code easier to understand,
 _in some circumstances_. A drawback to this approach, though, is that it is easy
 to end up in an infinite loop if the function is not created properly. In addition,
-the concepts behind recusion can often be more difficult to wrap your head around.
+the concepts behind recursion can often be more difficult to wrap your head around.
 
 ## Things I would like to know more about
 
