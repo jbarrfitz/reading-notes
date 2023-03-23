@@ -1,4 +1,4 @@
-# Class 01
+# Class 02
 
 **Date Due:** March 21, 6:30pm PDT
 
