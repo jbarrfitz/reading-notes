@@ -11,5 +11,5 @@ the course and will be a valuable resource when needing to research these topics
 
 ### Table of Contents
 
-- [Class 01](class_01.md)
 - [Class 02](class_02.md)
+- [Class 03](class_03.md)
