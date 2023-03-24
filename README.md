@@ -12,5 +12,6 @@ the course and will be a valuable resource when needing to research these topics
 ### Table of Contents
 
 - [Prep: Data Structures & Algorithms](prep_data_structures.md)
+- [Prep: Introduction to SQL](sql.md)
 - [Class 02](class_02.md)
 - [Class 03](class_03.md)
