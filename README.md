@@ -15,6 +15,7 @@ the course and will be a valuable resource when needing to research these topics
 - [Prep: Engineering Reading](prep_engineering_reading.md)
 - [Prep: Introduction to SQL](sql.md)
 - [Prep Your Mindset](prep_mindset.md)
+- [Prep: Practice in the Terminal](prep_terminal_practice.md)
 - [Class 02](class_02.md)
 - [Class 03](class_03.md)
 - [Class 04](class_04.md)
