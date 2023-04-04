@@ -40,4 +40,3 @@ of repeating commands!
 \* = zero or more characters
 ? = a single characgter
 [] = a range of characters
-

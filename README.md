@@ -19,3 +19,4 @@ the course and will be a valuable resource when needing to research these topics
 - [Class 02](class_02.md)
 - [Class 03](class_03.md)
 - [Class 04](class_04.md)
+- [Class 06](class_06.md)
