@@ -51,7 +51,16 @@ and outside the function call.
 
 #### How do the global and nonlocal keywords work in Python, and in what situations might you use them?
 
+The global keyword allows you to assign values to global variables within
+a function. The normal behavior would be to assign that value to a new,
+local variable with the same name as the global variable, but by using the
+globa keyword, you can specify that you are reassigning the new value to
+the global variable instead.
 
+The nonlocal keyword acts much the same way as the global keyword, but is
+used when you're referring to a variable in an enclosing scope, rather than
+a truly global variable. This is helpful for being specific about which
+variable you are referring to when using nested functions, for example.
 
 #### In your own words, describe the purpose and importance of Big O notation in the context of algorithm analysis
 
