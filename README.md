@@ -24,3 +24,4 @@ the course and will be a valuable resource when needing to research these topics
 - [Class 08](class_08.md)
 - [Class 09](class_09.md)
 - [Class 11](class_11.md)
+- [Class 12](class_12.md)
