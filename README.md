@@ -27,3 +27,4 @@ the course and will be a valuable resource when needing to research these topics
 - [Class 12](class_12.md)
 - [Class 14](class_14.md)
 - [Class 16](class_16.md)
+- [Class 17](class_17.md)
