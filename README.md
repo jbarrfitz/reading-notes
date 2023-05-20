@@ -29,3 +29,4 @@ the course and will be a valuable resource when needing to research these topics
 - [Class 16](class_16.md)
 - [Class 17](class_17.md)
 - [Class 18](class_18.md)
+- [Class 19](class_19.md)
