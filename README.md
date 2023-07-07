@@ -35,3 +35,4 @@ the course and will be a valuable resource when needing to research these topics
 - [Class 27](class_27.md)
 - [Class 28](class_28.md)
 - [Class 29](class_29.md)
+- [Class 31](class_31.md)
